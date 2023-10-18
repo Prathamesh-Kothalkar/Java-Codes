@@ -1,0 +1,20 @@
+FUNDAMENTAL OF PROBLEM SOLVING	
+	Dynamic array
+	Algoritm
+	Hash Map and Hash set
+	2d array
+	linked list
+	stack and queues(normal)
+	
+Algorithm
+	SEARCHING
+		linear search
+		binary search
+	SORTING
+		Bubble sort
+		
+	
+
+
+
+
