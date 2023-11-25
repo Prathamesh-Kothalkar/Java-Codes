@@ -1,6 +1,6 @@
 /*
 	Problem :- Given a string, find the index of the first character that does not repeat in the string
-	Example:- For the string "aaa", the first non-repeating character is at index 2 (assuming a zero-based index). So, your program would output 2.
+	Example:- For the string "asdas", the first non-repeating character is at index 2 (assuming a zero-based index). So, your program would output 2.
 
 */
 /*
@@ -23,7 +23,7 @@ class CharCheck{
 		}
 
 	public static void main(String[] agrs){
-			String str="dudbjfiuicu";
+			String str="asdas";
 			int isRep = isRepeat(str);
 			System.out.println(isRep);
 		}
